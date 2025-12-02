@@ -5,7 +5,7 @@ hero:
   name: appoint
   text: бизнес логика
   image:
-    src: /assets/logo-home.png
+    src: /docs/assets/logo-home.png
     alt: appoint
   actions:
     - theme: brand
